@@ -1,0 +1,25 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "sessions": {
+      "$sid": {
+        ".read": "$sid.matches(/^[a-f0-9]{32}$/) && (data.child('meta/active').val() === true || (auth != null && data.child('meta/owner').val() === auth.uid))",
+        ".write": "auth != null && auth.uid === 'FKcD8udcB1Y1mkKlDJBmK3VWwFa2' && $sid.matches(/^[a-f0-9]{32}$/) && (!data.exists() || data.child('meta/owner').val() === auth.uid) && (!newData.exists() || newData.child('meta/owner').val() === auth.uid)",
+        ".validate": "newData.hasChildren(['meta'])",
+        "meta": {
+          ".validate": "newData.hasChildren(['owner','protocol','active','updated']) && newData.child('owner').isString() && newData.child('owner').val() === auth.uid && newData.child('protocol').val() === 2 && newData.child('active').val() === true && newData.child('updated').isNumber() && newData.child('updated').val() <= now + 5000",
+          "owner": {".validate":"!data.exists() || newData.val() === data.val()"},
+          "protocol": {}, "active": {}, "updated": {},
+          "$other": {".validate":false}
+        },
+        "live": {
+          ".validate": "newData.hasChildren(['schema','seq','clock','matchId']) && newData.child('schema').val() === 2 && newData.child('seq').isNumber() && newData.child('seq').val() % 1 === 0 && newData.child('seq').val() >= 1 && newData.child('seq').val() <= 9007199254740991 && (!data.exists() || newData.child('seq').val() > data.child('seq').val()) && newData.child('clock/t').isNumber() && newData.child('clock/ms').isNumber() && newData.child('matchId').isString()",
+          "pos": {}, "info": {}, "units": {}, "events": {}
+        },
+        "feed": {},
+        "$other": {".validate":false}
+      }
+    }
+  }
+}

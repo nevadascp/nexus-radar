@@ -1,0 +1,15 @@
+{
+  "protocol": 2,
+  "firebase": {
+    "apiKey": "AIzaSyDUkWV-TOYM00F3d6LC-JsI3z0QWaNKO7g",
+    "authDomain": "nexus-radar-eb31b.firebaseapp.com",
+    "databaseURL": "https://nexus-radar-eb31b-default-rtdb.europe-west1.firebasedatabase.app",
+    "projectId": "nexus-radar-eb31b"
+  },
+  "viewerURL": "https://nevadascp.github.io/nexus-radar/",
+  "map": {
+    "half": 9472,
+    "image": "./dota-map.webp"
+  },
+  "writerUid": "FKcD8udcB1Y1mkKlDJBmK3VWwFa2"
+}

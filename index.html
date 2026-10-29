@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ru" data-layout="auto">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0b1118"><meta name="description" content="NEXUS — персональный радар Dota 2: карта, герои, предметы, способности и события матча.">
+  <meta name="referrer" content="no-referrer"><title>NEXUS · Dota Radar</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <a class="skip" href="#mapPanel">К карте</a>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="NEXUS, главная"><img src="./favicon.svg" alt=""><span>NEXUS<small>DOTA RADAR</small></span></a>
+    <div class="session-status"><i id="connectionDot" class="status-dot"></i><div><b id="connectionTitle">Ожидание ссылки</b><span id="connectionDetail">Ваш матч. Вся картина.</span></div></div>
+    <div class="top-actions">
+      <label class="view-picker"><span class="sr-only">Вид интерфейса</span><select id="layoutMode" aria-label="Вид интерфейса"><option value="auto">Авто</option><option value="desktop">ПК</option><option value="mobile">Телефон</option></select></label>
+      <button class="icon-button" id="settingsButton" aria-label="Настройки" title="Настройки"><span data-icon="sliders"></span></button>
+      <button class="button share-button" id="shareButton" disabled><span data-icon="link"></span><span>Поделиться</span></button>
+    </div>
+  </header>
+  <main class="app-shell">
+    <nav class="rail" aria-label="Разделы"><button class="rail-tab active" data-page="map" title="Карта"><span data-icon="map"></span><span>Карта</span></button><button class="rail-tab" data-page="heroes" title="Герои"><span data-icon="heroes"></span><span>Герои</span></button><button class="rail-tab" data-page="events" title="События"><span data-icon="activity"></span><span>События</span></button><button class="rail-tab" data-page="objectives" title="Объекты"><span data-icon="target"></span><span>Объекты</span></button><a class="rail-setup" href="./setup.html" title="Подключение"><span data-icon="plug"></span><span>Связь</span></a><span class="rail-version">v1.0</span></nav>
+    <section class="workspace" id="workspace" data-page="map">
+      <div class="scorebar" id="scorebar"><div class="team-score radiant"><span class="team-emblem">R</span><div><small>RADIANT</small><strong id="radiantKills">—</strong></div><div class="team-mini" id="radiantMini"></div><span class="team-worth" id="radiantWorth">—</span></div><div class="match-clock"><span id="dayNight">МАТЧ</span><b id="gameClock">—:—</b><small id="matchPhase">ожидание данных</small></div><div class="team-score dire"><span class="team-worth" id="direWorth">—</span><div class="team-mini" id="direMini"></div><div><small>DIRE</small><strong id="direKills">—</strong></div><span class="team-emblem">D</span></div></div>
+      <div class="workspace-grid">
+        <section class="map-panel panel" id="mapPanel" aria-label="Тактическая карта">
+          <div class="panel-heading"><div><span class="eyebrow">TACTICAL VIEW</span><h1>Карта матча</h1></div><div class="map-heading-actions"><span id="demoBadge" class="tag demo hidden">ДЕМОНСТРАЦИЯ</span><button class="small-button" id="layersButton" aria-expanded="false"><span data-icon="layers"></span>Слои</button></div></div>
+          <div class="map-stage" id="mapStage"><canvas id="mapCanvas" aria-label="Карта Dota 2. Нажмите на героя для подробностей." tabindex="0"></canvas><div class="map-compass">N<span>↑</span></div><div class="map-corner radiant-label">RADIANT</div><div class="map-corner dire-label">DIRE</div><div id="mapTooltip" class="map-tooltip hidden"></div><div id="mapToast" class="map-toast hidden"></div><div class="map-tools"><button id="zoomIn" aria-label="Приблизить" title="Приблизить">+</button><button id="zoomOut" aria-label="Отдалить" title="Отдалить">−</button><button id="resetMap" aria-label="Вся карта" title="Вся карта"><span data-icon="fit"></span></button><button id="rotateMap" aria-label="Повернуть карту" title="Повернуть карту"><span data-icon="rotate"></span></button></div>
+          <div class="layers-popover hidden" id="layersPanel"><h3>Слои карты</h3><div id="layerControls"></div><div class="legend"><span><i class="legend-dot green"></i>виден</span><span><i class="legend-dot amber"></i>наблюдение в тумане</span><span><i class="legend-dot muted"></i>последняя позиция</span></div></div>
+          <div class="welcome-overlay" id="welcome"><div class="welcome-mark"><span data-icon="radar"></span></div><span class="eyebrow">ПЕРСОНАЛЬНЫЙ DOTA-РАДАР</span><h2>Матч как на ладони.</h2><p>Откройте ссылку от отправителя или настройте собственную сессию. Карта, предметы и события — на одном экране.</p><div class="welcome-actions"><button class="button primary" id="startDemo">Посмотреть демо<span data-icon="arrow"></span></button><a class="button secondary" href="./setup.html">Подключить скрипт</a></div><span class="welcome-note">Доступ по ссылке · ПК и телефон · Ваш backend</span></div>
+          </div>
+          <div class="map-footer"><span><i class="status-dot" id="freshnessDot"></i><span id="freshnessText">Нет данных</span></span><div><span id="streamRate">— Гц</span><span class="footer-separator"></span><span id="senderTime">— мс</span><button id="latencyMode" class="text-button" title="Переключить сглаживание">Низкая задержка</button></div></div>
+        </section>
+        <aside class="inspector panel" id="inspector" aria-label="Выбранный герой"><div class="inspector-empty"><span data-icon="crosshair"></span><h2>Выберите героя</h2><p>Нажмите на портрет или отметку на карте, чтобы увидеть предметы, способности и состояние.</p></div></aside>
+        <section class="roster-panel panel" id="rosterPanel"><div class="panel-heading compact"><div><span class="eyebrow">MATCH LINEUP</span><h2>Герои</h2></div><div class="segmented" id="teamFilter"><button class="active" data-team="all">Все</button><button data-team="2">Radiant</button><button data-team="3">Dire</button></div></div><div class="roster-list" id="rosterList"><p class="empty-text">Герои появятся после начала передачи.</p></div></section>
+        <section class="events-panel panel" id="eventsPanel"><div class="panel-heading compact"><div><span class="eyebrow">LIVE FEED</span><h2>Хроника матча</h2></div><span class="count-badge" id="eventCount">0</span></div><div class="event-filters" id="eventFilters"><button class="active" data-filter="all">Все</button><button data-filter="move">Перемещения</button><button data-filter="fight">Бой</button><button data-filter="objective">Объекты</button></div><div class="event-list" id="eventList"><p class="empty-text">Здесь будут телепорты, способности и важные события.</p></div></section>
+        <section class="objectives-panel panel" id="objectivesPanel"><div class="panel-heading compact"><div><span class="eyebrow">MAP CONTROL</span><h2>Объекты и ресурсы</h2></div><span data-icon="target"></span></div><div id="objectiveList" class="objective-list"><p class="empty-text">Ожидание информации о карте.</p></div></section>
+      </div>
+      <footer class="app-footer"><span>NEXUS · персональная тактическая панель</span><span>Карта и изображения Dota 2 © Valve · <a href="./setup.html">Подключение</a></span></footer>
+    </section>
+  </main>
+  <dialog id="settingsDialog" class="settings-dialog"><form method="dialog"><button class="icon-button close-dialog" aria-label="Закрыть">×</button></form><span class="eyebrow">YOUR RADAR, YOUR WAY</span><h2>Настройки</h2><label class="settings-row"><span><b>Звуки событий</b><small>Короткий сигнал о дыме и атаке на Рошана</small></span><input id="soundEnabled" type="checkbox" role="switch"></label><label class="settings-row"><span><b>Экономный рендер</b><small>До 30 кадров/с вместо 60</small></span><input id="ecoRender" type="checkbox" role="switch"></label><label class="settings-row"><span><b>Минимальная задержка</b><small>Быстрый отклик; отключите для более плавного движения</small></span><input id="lowLatency" type="checkbox" role="switch" checked></label><div class="settings-info" id="sessionDiagnostics">Сессия не подключена</div><a class="button secondary wide" href="./setup.html">Настройка собственного проекта<span data-icon="arrow"></span></a><p class="dialog-note">Настройки сохраняются только в этом браузере.</p></dialog>
+  <div class="global-toast hidden" id="globalToast" role="status"></div>
+  <script type="module" src="./app.js"></script>
+</body></html>

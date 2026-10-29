@@ -1,0 +1,64 @@
+{
+  "assets": [
+    {
+      "width": 512,
+      "height": 512,
+      "format": 4,
+      "mip_levels": 1,
+      "resource_header_size": 2084,
+      "pixel_payload_offset": 2084,
+      "file": "dota-map.webp",
+      "source": "dota_tga_d8178876.vtex_c",
+      "sha256": "01028b24e7bebb740f3ce1506b769893205566ff17bddca2d86c32abfeda233f"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "format": 2,
+      "mip_levels": 1,
+      "resource_header_size": 2100,
+      "pixel_payload_offset": 2100,
+      "file": "dota-map-minimal.webp",
+      "source": "dota_minimal_psd_f4e53729.vtex_c",
+      "sha256": "1b2007725953c2dda97d7996d5d45dda1148031492573c43ffae79082939a1ec"
+    },
+    {
+      "width": 1024,
+      "height": 1024,
+      "format": 28,
+      "mip_levels": 1,
+      "resource_header_size": 2116,
+      "pixel_payload_offset": 2116,
+      "file": "dota-map-unused-psd.webp",
+      "source": "dota_psd.vtex_c",
+      "sha256": "b2c829ebf8a050d2026eafe58c8a6919880e7f9d6a4da41b3a80ccc3ee2eb68f"
+    }
+  ],
+  "calibration": {
+    "coordinate_source": "Valve resource/overviews/dota.txt from installed pak01_dir.vpk",
+    "active_material": "materials/overviews/dota.vmat_c",
+    "active_texture": "materials/overviews/dota_tga_d8178876.vtex_c",
+    "origin_x": -9472,
+    "origin_y": 9472,
+    "overview_scale": 18.5,
+    "overview_reference_pixels": 1024,
+    "active_image_width": 512,
+    "active_image_height": 512,
+    "active_image_world_units_per_pixel": 37,
+    "world_bounds": {
+      "minX": -9472,
+      "maxX": 9472,
+      "minY": -9472,
+      "maxY": 9472
+    },
+    "world_to_active_image": [
+      "pixelX = (worldX + 9472) / 37",
+      "pixelY = (9472 - worldY) / 37"
+    ],
+    "normalized": [
+      "u = (worldX + 9472) / 18944",
+      "v = (9472 - worldY) / 18944"
+    ],
+    "verification_limit": "Metadata, material references, dimensions and arithmetic verified; live in-game landmark alignment has not been tested. Do not transfer this calibration to the unused padded 1024px PSD."
+  }
+}

@@ -1,0 +1,2726 @@
+{
+  "source": "https://www.dota2.com/datafeed/itemlist?language=english",
+  "fetched": "2026-10-29",
+  "items": {
+    "item_blink": {
+      "id": 1,
+      "name": "Blink Dagger",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blink.png"
+    },
+    "item_overwhelming_blink": {
+      "id": 600,
+      "name": "Overwhelming Blink",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/overwhelming_blink.png"
+    },
+    "item_swift_blink": {
+      "id": 603,
+      "name": "Swift Blink",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/swift_blink.png"
+    },
+    "item_arcane_blink": {
+      "id": 604,
+      "name": "Arcane Blink",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/arcane_blink.png"
+    },
+    "item_recipe_arcane_blink": {
+      "id": 606,
+      "name": "Arcane Blink Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_arcane_blink.png"
+    },
+    "item_recipe_swift_blink": {
+      "id": 607,
+      "name": "Swift Blink Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_swift_blink.png"
+    },
+    "item_recipe_overwhelming_blink": {
+      "id": 608,
+      "name": "Overwhelming Blink Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_overwhelming_blink.png"
+    },
+    "item_blades_of_attack": {
+      "id": 2,
+      "name": "Blades of Attack",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blades_of_attack.png"
+    },
+    "item_broadsword": {
+      "id": 3,
+      "name": "Broadsword",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/broadsword.png"
+    },
+    "item_chainmail": {
+      "id": 4,
+      "name": "Chainmail",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/chainmail.png"
+    },
+    "item_splintmail": {
+      "id": 1847,
+      "name": "Splintmail",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/splintmail.png"
+    },
+    "item_claymore": {
+      "id": 5,
+      "name": "Claymore",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/claymore.png"
+    },
+    "item_helm_of_iron_will": {
+      "id": 6,
+      "name": "Helm of Iron Will",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/helm_of_iron_will.png"
+    },
+    "item_javelin": {
+      "id": 7,
+      "name": "Javelin",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/javelin.png"
+    },
+    "item_mithril_hammer": {
+      "id": 8,
+      "name": "Mithril Hammer",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mithril_hammer.png"
+    },
+    "item_platemail": {
+      "id": 9,
+      "name": "Platemail",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/platemail.png"
+    },
+    "item_quarterstaff": {
+      "id": 10,
+      "name": "Quarterstaff",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/quarterstaff.png"
+    },
+    "item_quelling_blade": {
+      "id": 11,
+      "name": "Quelling Blade",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/quelling_blade.png"
+    },
+    "item_faerie_fire": {
+      "id": 237,
+      "name": "Faerie Fire",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/faerie_fire.png"
+    },
+    "item_infused_raindrop": {
+      "id": 265,
+      "name": "Infused Raindrops",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/infused_raindrop.png"
+    },
+    "item_wind_lace": {
+      "id": 244,
+      "name": "Wind Lace",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/wind_lace.png"
+    },
+    "item_ring_of_protection": {
+      "id": 12,
+      "name": "Ring of Protection",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ring_of_protection.png"
+    },
+    "item_stout_shield": {
+      "id": 182,
+      "name": "Stout Shield",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/stout_shield.png"
+    },
+    "item_recipe_moon_shard": {
+      "id": 246,
+      "name": "Recipe Moon Shard",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_moon_shard.png"
+    },
+    "item_moon_shard": {
+      "id": 247,
+      "name": "Moon Shard",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/moon_shard.png"
+    },
+    "item_gauntlets": {
+      "id": 13,
+      "name": "Gauntlets of Strength",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/gauntlets.png"
+    },
+    "item_slippers": {
+      "id": 14,
+      "name": "Slippers of Agility",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/slippers.png"
+    },
+    "item_mantle": {
+      "id": 15,
+      "name": "Mantle of Intelligence",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mantle.png"
+    },
+    "item_branches": {
+      "id": 16,
+      "name": "Iron Branch",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/branches.png"
+    },
+    "item_belt_of_strength": {
+      "id": 17,
+      "name": "Belt of Strength",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/belt_of_strength.png"
+    },
+    "item_boots_of_elves": {
+      "id": 18,
+      "name": "Band of Elvenskin",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/boots_of_elves.png"
+    },
+    "item_robe": {
+      "id": 19,
+      "name": "Robe of the Magi",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/robe.png"
+    },
+    "item_circlet": {
+      "id": 20,
+      "name": "Circlet",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/circlet.png"
+    },
+    "item_crown": {
+      "id": 261,
+      "name": "Crown",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/crown.png"
+    },
+    "item_diadem": {
+      "id": 1122,
+      "name": "Diadem",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/diadem.png"
+    },
+    "item_ogre_axe": {
+      "id": 21,
+      "name": "Ogre Axe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ogre_axe.png"
+    },
+    "item_blade_of_alacrity": {
+      "id": 22,
+      "name": "Blade of Alacrity",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blade_of_alacrity.png"
+    },
+    "item_staff_of_wizardry": {
+      "id": 23,
+      "name": "Staff of Wizardry",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/staff_of_wizardry.png"
+    },
+    "item_ultimate_orb": {
+      "id": 24,
+      "name": "Ultimate Orb",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ultimate_orb.png"
+    },
+    "item_gloves": {
+      "id": 25,
+      "name": "Gloves of Haste",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/gloves.png"
+    },
+    "item_blitz_knuckles": {
+      "id": 485,
+      "name": "Blitz Knuckles",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blitz_knuckles.png"
+    },
+    "item_lifesteal": {
+      "id": 26,
+      "name": "Morbid Mask",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/lifesteal.png"
+    },
+    "item_voodoo_mask": {
+      "id": 473,
+      "name": "Voodoo Mask",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/voodoo_mask.png"
+    },
+    "item_ring_of_regen": {
+      "id": 27,
+      "name": "Ring of Regen",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ring_of_regen.png"
+    },
+    "item_sobi_mask": {
+      "id": 28,
+      "name": "Sage's Mask",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sobi_mask.png"
+    },
+    "item_boots": {
+      "id": 29,
+      "name": "Boots of Speed",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/boots.png"
+    },
+    "item_gem": {
+      "id": 30,
+      "name": "Gem of True Sight",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/gem.png"
+    },
+    "item_shawl": {
+      "id": 1848,
+      "name": "Shawl",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/shawl.png"
+    },
+    "item_cloak": {
+      "id": 31,
+      "name": "Cloak",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/cloak.png"
+    },
+    "item_talisman_of_evasion": {
+      "id": 32,
+      "name": "Talisman of Evasion",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/talisman_of_evasion.png"
+    },
+    "item_cheese": {
+      "id": 33,
+      "name": "Cheese",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/cheese.png"
+    },
+    "item_magic_stick": {
+      "id": 34,
+      "name": "Magic Stick",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/magic_stick.png"
+    },
+    "item_recipe_magic_wand": {
+      "id": 35,
+      "name": "Magic Wand Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_magic_wand.png"
+    },
+    "item_magic_wand": {
+      "id": 36,
+      "name": "Magic Wand",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/magic_wand.png"
+    },
+    "item_ghost": {
+      "id": 37,
+      "name": "Ghost Scepter",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ghost.png"
+    },
+    "item_clarity": {
+      "id": 38,
+      "name": "Clarity",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/clarity.png"
+    },
+    "item_enchanted_mango": {
+      "id": 216,
+      "name": "Enchanted Mango",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enchanted_mango.png"
+    },
+    "item_famango": {
+      "id": 4204,
+      "name": "Healing Lotus",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/famango.png"
+    },
+    "item_great_famango": {
+      "id": 4205,
+      "name": "Great Healing Lotus",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/great_famango.png"
+    },
+    "item_greater_famango": {
+      "id": 4206,
+      "name": "Greater Healing Lotus",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/greater_famango.png"
+    },
+    "item_recipe_great_famango": {
+      "id": 4207,
+      "name": "Recipe Great Famango",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_great_famango.png"
+    },
+    "item_recipe_greater_famango": {
+      "id": 4208,
+      "name": "Recipe Greater Famango",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_greater_famango.png"
+    },
+    "item_blood_grenade": {
+      "id": 1123,
+      "name": "Blood Grenade",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blood_grenade.png"
+    },
+    "item_royale_with_cheese": {
+      "id": 1154,
+      "name": "Block of Cheese",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/royale_with_cheese.png"
+    },
+    "item_flask": {
+      "id": 39,
+      "name": "Healing Salve",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/flask.png"
+    },
+    "item_dust": {
+      "id": 40,
+      "name": "Dust of Appearance",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png"
+    },
+    "item_bottle": {
+      "id": 41,
+      "name": "Bottle",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/bottle.png"
+    },
+    "item_ward_observer": {
+      "id": 42,
+      "name": "Observer Ward",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ward_observer.png"
+    },
+    "item_ward_sentry": {
+      "id": 43,
+      "name": "Sentry Ward",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ward_sentry.png"
+    },
+    "item_recipe_ward_dispenser": {
+      "id": 217,
+      "name": "Recipe Ward Dispenser",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_ward_dispenser.png"
+    },
+    "item_ward_dispenser": {
+      "id": 218,
+      "name": "Observer and Sentry Wards",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ward_dispenser.png"
+    },
+    "item_tango": {
+      "id": 44,
+      "name": "Tango",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/tango.png"
+    },
+    "item_tango_single": {
+      "id": 241,
+      "name": "Tango (Shared)",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/tango_single.png"
+    },
+    "item_courier": {
+      "id": 45,
+      "name": "Animal Courier",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/courier.png"
+    },
+    "item_flying_courier": {
+      "id": 286,
+      "name": "Flying Courier",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/flying_courier.png"
+    },
+    "item_tpscroll": {
+      "id": 46,
+      "name": "Town Portal Scroll",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/tpscroll.png"
+    },
+    "item_recipe_travel_boots": {
+      "id": 47,
+      "name": "Boots of Travel Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_travel_boots.png"
+    },
+    "item_recipe_travel_boots_2": {
+      "id": 219,
+      "name": "Recipe Travel Boots 2",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_travel_boots_2.png"
+    },
+    "item_travel_boots": {
+      "id": 48,
+      "name": "Boots of Travel",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/travel_boots.png"
+    },
+    "item_travel_boots_2": {
+      "id": 220,
+      "name": "Boots of Travel 2",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/travel_boots_2.png"
+    },
+    "item_recipe_phase_boots": {
+      "id": 49,
+      "name": "Recipe Phase Boots",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_phase_boots.png"
+    },
+    "item_phase_boots": {
+      "id": 50,
+      "name": "Phase Boots",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/phase_boots.png"
+    },
+    "item_demon_edge": {
+      "id": 51,
+      "name": "Demon Edge",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/demon_edge.png"
+    },
+    "item_eagle": {
+      "id": 52,
+      "name": "Eaglesong",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/eagle.png"
+    },
+    "item_reaver": {
+      "id": 53,
+      "name": "Reaver",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/reaver.png"
+    },
+    "item_relic": {
+      "id": 54,
+      "name": "Sacred Relic",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/relic.png"
+    },
+    "item_hyperstone": {
+      "id": 55,
+      "name": "Hyperstone",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/hyperstone.png"
+    },
+    "item_ring_of_health": {
+      "id": 56,
+      "name": "Ring of Health",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ring_of_health.png"
+    },
+    "item_ring_of_tarrasque": {
+      "id": 279,
+      "name": "Ring of Tarrasque",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ring_of_tarrasque.png"
+    },
+    "item_void_stone": {
+      "id": 57,
+      "name": "Void Stone",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/void_stone.png"
+    },
+    "item_tiara_of_selemene": {
+      "id": 1802,
+      "name": "Tiara of Selemene",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/tiara_of_selemene.png"
+    },
+    "item_mystic_staff": {
+      "id": 58,
+      "name": "Mystic Staff",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mystic_staff.png"
+    },
+    "item_energy_booster": {
+      "id": 59,
+      "name": "Energy Booster",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/energy_booster.png"
+    },
+    "item_point_booster": {
+      "id": 60,
+      "name": "Point Booster",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/point_booster.png"
+    },
+    "item_vitality_booster": {
+      "id": 61,
+      "name": "Vitality Booster",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/vitality_booster.png"
+    },
+    "item_fluffy_hat": {
+      "id": 593,
+      "name": "Fluffy Hat",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/fluffy_hat.png"
+    },
+    "item_wizard_hat": {
+      "id": 1849,
+      "name": "Wizard Hat",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/wizard_hat.png"
+    },
+    "item_recipe_power_treads": {
+      "id": 62,
+      "name": "Recipe Power Treads",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_power_treads.png"
+    },
+    "item_power_treads": {
+      "id": 63,
+      "name": "Power Treads",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/power_treads.png"
+    },
+    "item_recipe_phylactery": {
+      "id": 1106,
+      "name": "Phylactery Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_phylactery.png"
+    },
+    "item_phylactery": {
+      "id": 1107,
+      "name": "Phylactery",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/phylactery.png"
+    },
+    "item_recipe_angels_demise": {
+      "id": 1807,
+      "name": "Khanda Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_angels_demise.png"
+    },
+    "item_angels_demise": {
+      "id": 1808,
+      "name": "Khanda",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/angels_demise.png"
+    },
+    "item_recipe_hand_of_midas": {
+      "id": 64,
+      "name": "Hand of Midas Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_hand_of_midas.png"
+    },
+    "item_hand_of_midas": {
+      "id": 65,
+      "name": "Hand of Midas",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/hand_of_midas.png"
+    },
+    "item_recipe_oblivion_staff": {
+      "id": 66,
+      "name": "Recipe Oblivion Staff",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_oblivion_staff.png"
+    },
+    "item_oblivion_staff": {
+      "id": 67,
+      "name": "Oblivion Staff",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/oblivion_staff.png"
+    },
+    "item_recipe_witch_blade": {
+      "id": 533,
+      "name": "Witch Blade Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_witch_blade.png"
+    },
+    "item_witch_blade": {
+      "id": 534,
+      "name": "Witch Blade",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/witch_blade.png"
+    },
+    "item_recipe_pers": {
+      "id": 68,
+      "name": "Recipe Pers",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_pers.png"
+    },
+    "item_pers": {
+      "id": 69,
+      "name": "Perseverance",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/pers.png"
+    },
+    "item_cornucopia": {
+      "id": 1125,
+      "name": "Cornucopia",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/cornucopia.png"
+    },
+    "item_recipe_poor_mans_shield": {
+      "id": 70,
+      "name": "Recipe Poor Mans Shield",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_poor_mans_shield.png"
+    },
+    "item_poor_mans_shield": {
+      "id": 71,
+      "name": "Poor Man's Shield",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/poor_mans_shield.png"
+    },
+    "item_recipe_bracer": {
+      "id": 72,
+      "name": "Bracer Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_bracer.png"
+    },
+    "item_bracer": {
+      "id": 73,
+      "name": "Bracer",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/bracer.png"
+    },
+    "item_recipe_wraith_band": {
+      "id": 74,
+      "name": "Wraith Band Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_wraith_band.png"
+    },
+    "item_wraith_band": {
+      "id": 75,
+      "name": "Wraith Band",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/wraith_band.png"
+    },
+    "item_recipe_null_talisman": {
+      "id": 76,
+      "name": "Null Talisman Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_null_talisman.png"
+    },
+    "item_null_talisman": {
+      "id": 77,
+      "name": "Null Talisman",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/null_talisman.png"
+    },
+    "item_recipe_mekansm": {
+      "id": 78,
+      "name": "Mekansm Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_mekansm.png"
+    },
+    "item_mekansm": {
+      "id": 79,
+      "name": "Mekansm",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mekansm.png"
+    },
+    "item_recipe_vladmir": {
+      "id": 80,
+      "name": "Vladmir's Offering Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_vladmir.png"
+    },
+    "item_vladmir": {
+      "id": 81,
+      "name": "Vladmir's Offering",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/vladmir.png"
+    },
+    "item_recipe_wraith_pact": {
+      "id": 907,
+      "name": "Recipe Wraith Pact",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_wraith_pact.png"
+    },
+    "item_wraith_pact": {
+      "id": 908,
+      "name": "Wraith Pact",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/wraith_pact.png"
+    },
+    "item_recipe_buckler": {
+      "id": 85,
+      "name": "Buckler Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_buckler.png"
+    },
+    "item_buckler": {
+      "id": 86,
+      "name": "Buckler",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/buckler.png"
+    },
+    "item_recipe_ring_of_basilius": {
+      "id": 87,
+      "name": "Ring of Basilius Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_ring_of_basilius.png"
+    },
+    "item_ring_of_basilius": {
+      "id": 88,
+      "name": "Ring of Basilius",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ring_of_basilius.png"
+    },
+    "item_recipe_holy_locket": {
+      "id": 268,
+      "name": "Holy Locket Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_holy_locket.png"
+    },
+    "item_holy_locket": {
+      "id": 269,
+      "name": "Holy Locket",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/holy_locket.png"
+    },
+    "item_recipe_pipe": {
+      "id": 89,
+      "name": "Pipe of Insight Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_pipe.png"
+    },
+    "item_pipe": {
+      "id": 90,
+      "name": "Pipe of Insight",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/pipe.png"
+    },
+    "item_recipe_urn_of_shadows": {
+      "id": 91,
+      "name": "Urn of Shadows Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_urn_of_shadows.png"
+    },
+    "item_urn_of_shadows": {
+      "id": 92,
+      "name": "Urn of Shadows",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/urn_of_shadows.png"
+    },
+    "item_recipe_headdress": {
+      "id": 93,
+      "name": "Headdress Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_headdress.png"
+    },
+    "item_headdress": {
+      "id": 94,
+      "name": "Headdress",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/headdress.png"
+    },
+    "item_recipe_sheepstick": {
+      "id": 95,
+      "name": "Scythe of Vyse Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_sheepstick.png"
+    },
+    "item_sheepstick": {
+      "id": 96,
+      "name": "Scythe of Vyse",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png"
+    },
+    "item_caster_rapier": {
+      "id": 1801,
+      "name": "Caster Rapier",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/caster_rapier.png"
+    },
+    "item_recipe_orchid": {
+      "id": 97,
+      "name": "Orchid Malevolence Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_orchid.png"
+    },
+    "item_orchid": {
+      "id": 98,
+      "name": "Orchid Malevolence",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/orchid.png"
+    },
+    "item_recipe_bloodthorn": {
+      "id": 245,
+      "name": "Bloodthorn Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_bloodthorn.png"
+    },
+    "item_bloodthorn": {
+      "id": 250,
+      "name": "Bloodthorn",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/bloodthorn.png"
+    },
+    "item_recipe_echo_sabre": {
+      "id": 251,
+      "name": "Recipe Echo Sabre",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_echo_sabre.png"
+    },
+    "item_echo_sabre": {
+      "id": 252,
+      "name": "Echo Sabre",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/echo_sabre.png"
+    },
+    "item_recipe_cyclone": {
+      "id": 99,
+      "name": "Eul's Scepter Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_cyclone.png"
+    },
+    "item_cyclone": {
+      "id": 100,
+      "name": "Eul's Scepter of Divinity",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/cyclone.png"
+    },
+    "item_recipe_wind_waker": {
+      "id": 612,
+      "name": "Wind Waker Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_wind_waker.png"
+    },
+    "item_wind_waker": {
+      "id": 610,
+      "name": "Wind Waker",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/wind_waker.png"
+    },
+    "item_recipe_aether_lens": {
+      "id": 233,
+      "name": "Aether Lens Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_aether_lens.png"
+    },
+    "item_aether_lens": {
+      "id": 232,
+      "name": "Aether Lens",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/aether_lens.png"
+    },
+    "item_recipe_force_staff": {
+      "id": 101,
+      "name": "Force Staff Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_force_staff.png"
+    },
+    "item_force_staff": {
+      "id": 102,
+      "name": "Force Staff",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_staff.png"
+    },
+    "item_recipe_hurricane_pike": {
+      "id": 262,
+      "name": "Hurricane Pike Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_hurricane_pike.png"
+    },
+    "item_hurricane_pike": {
+      "id": 263,
+      "name": "Hurricane Pike",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/hurricane_pike.png"
+    },
+    "item_recipe_dagon": {
+      "id": 103,
+      "name": "Dagon Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_dagon.png"
+    },
+    "item_recipe_dagon_2": {
+      "id": 197,
+      "name": "Recipe Dagon 2",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_dagon_2.png"
+    },
+    "item_recipe_dagon_3": {
+      "id": 198,
+      "name": "Recipe Dagon 3",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_dagon_3.png"
+    },
+    "item_recipe_dagon_4": {
+      "id": 199,
+      "name": "Recipe Dagon 4",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_dagon_4.png"
+    },
+    "item_recipe_dagon_5": {
+      "id": 200,
+      "name": "Recipe Dagon 5",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_dagon_5.png"
+    },
+    "item_dagon": {
+      "id": 104,
+      "name": "Dagon",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon.png"
+    },
+    "item_dagon_2": {
+      "id": 201,
+      "name": "Dagon",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_2.png"
+    },
+    "item_dagon_3": {
+      "id": 202,
+      "name": "Dagon",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_3.png"
+    },
+    "item_dagon_4": {
+      "id": 203,
+      "name": "Dagon",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_4.png"
+    },
+    "item_dagon_5": {
+      "id": 204,
+      "name": "Dagon",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_5.png"
+    },
+    "item_recipe_necronomicon": {
+      "id": 105,
+      "name": "Necronomicon Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_necronomicon.png"
+    },
+    "item_recipe_necronomicon_2": {
+      "id": 191,
+      "name": "Recipe Necronomicon 2",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_necronomicon_2.png"
+    },
+    "item_recipe_necronomicon_3": {
+      "id": 192,
+      "name": "Recipe Necronomicon 3",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_necronomicon_3.png"
+    },
+    "item_necronomicon": {
+      "id": 106,
+      "name": "Necronomicon",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/necronomicon.png"
+    },
+    "item_necronomicon_2": {
+      "id": 193,
+      "name": "Necronomicon",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/necronomicon_2.png"
+    },
+    "item_necronomicon_3": {
+      "id": 194,
+      "name": "Necronomicon",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/necronomicon_3.png"
+    },
+    "item_recipe_ultimate_scepter": {
+      "id": 107,
+      "name": "Recipe Ultimate Scepter",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_ultimate_scepter.png"
+    },
+    "item_ultimate_scepter": {
+      "id": 108,
+      "name": "Aghanim's Scepter",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ultimate_scepter.png"
+    },
+    "item_recipe_ultimate_scepter_2": {
+      "id": 270,
+      "name": "Aghanim's Blessing Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_ultimate_scepter_2.png"
+    },
+    "item_ultimate_scepter_2": {
+      "id": 271,
+      "name": "Aghanim's Blessing",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ultimate_scepter_2.png"
+    },
+    "item_ultimate_scepter_roshan": {
+      "id": 727,
+      "name": "Aghanim's Blessing - Roshan",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ultimate_scepter_roshan.png"
+    },
+    "item_aghanims_shard": {
+      "id": 609,
+      "name": "Aghanim's Shard",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/aghanims_shard.png"
+    },
+    "item_aghanims_shard_roshan": {
+      "id": 725,
+      "name": "Aghanim's Shard - Consumable",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/aghanims_shard_roshan.png"
+    },
+    "item_eldwurms_edda": {
+      "id": 1850,
+      "name": "Eldwurm's Edda",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/eldwurms_edda.png"
+    },
+    "item_recipe_refresher": {
+      "id": 109,
+      "name": "Refresher Orb Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_refresher.png"
+    },
+    "item_refresher": {
+      "id": 110,
+      "name": "Refresher Orb",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/refresher.png"
+    },
+    "item_recipe_assault": {
+      "id": 111,
+      "name": "Assault Cuirass Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_assault.png"
+    },
+    "item_assault": {
+      "id": 112,
+      "name": "Assault Cuirass",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/assault.png"
+    },
+    "item_recipe_heart": {
+      "id": 113,
+      "name": "Heart of Tarrasque Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_heart.png"
+    },
+    "item_heart": {
+      "id": 114,
+      "name": "Heart of Tarrasque",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/heart.png"
+    },
+    "item_recipe_black_king_bar": {
+      "id": 115,
+      "name": "Black King Bar Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_black_king_bar.png"
+    },
+    "item_black_king_bar": {
+      "id": 116,
+      "name": "Black King Bar",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png"
+    },
+    "item_aegis": {
+      "id": 117,
+      "name": "Aegis of the Immortal",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/aegis.png"
+    },
+    "item_recipe_shivas_guard": {
+      "id": 118,
+      "name": "Shiva's Guard Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_shivas_guard.png"
+    },
+    "item_shivas_guard": {
+      "id": 119,
+      "name": "Shiva's Guard",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/shivas_guard.png"
+    },
+    "item_recipe_bloodstone": {
+      "id": 120,
+      "name": "Bloodstone Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_bloodstone.png"
+    },
+    "item_bloodstone": {
+      "id": 121,
+      "name": "Bloodstone",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/bloodstone.png"
+    },
+    "item_recipe_sphere": {
+      "id": 122,
+      "name": "Linken's Sphere Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_sphere.png"
+    },
+    "item_sphere": {
+      "id": 123,
+      "name": "Linken's Sphere",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sphere.png"
+    },
+    "item_recipe_lotus_orb": {
+      "id": 221,
+      "name": "Lotus Orb Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_lotus_orb.png"
+    },
+    "item_lotus_orb": {
+      "id": 226,
+      "name": "Lotus Orb",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/lotus_orb.png"
+    },
+    "item_recipe_meteor_hammer": {
+      "id": 222,
+      "name": "Meteor Hammer Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_meteor_hammer.png"
+    },
+    "item_meteor_hammer": {
+      "id": 223,
+      "name": "Meteor Hammer",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/meteor_hammer.png"
+    },
+    "item_recipe_nullifier": {
+      "id": 224,
+      "name": "Nullifier Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_nullifier.png"
+    },
+    "item_nullifier": {
+      "id": 225,
+      "name": "Nullifier",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/nullifier.png"
+    },
+    "item_recipe_aeon_disk": {
+      "id": 255,
+      "name": "Aeon Disk Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_aeon_disk.png"
+    },
+    "item_aeon_disk": {
+      "id": 256,
+      "name": "Aeon Disk",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/aeon_disk.png"
+    },
+    "item_recipe_kaya": {
+      "id": 258,
+      "name": "Kaya Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_kaya.png"
+    },
+    "item_kaya": {
+      "id": 259,
+      "name": "Kaya",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/kaya.png"
+    },
+    "item_trident": {
+      "id": 369,
+      "name": "Trident",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/trident.png"
+    },
+    "item_refresher_shard": {
+      "id": 260,
+      "name": "Refresher Shard",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/refresher_shard.png"
+    },
+    "item_recipe_spirit_vessel": {
+      "id": 266,
+      "name": "Spirit Vessel Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_spirit_vessel.png"
+    },
+    "item_spirit_vessel": {
+      "id": 267,
+      "name": "Spirit Vessel",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/spirit_vessel.png"
+    },
+    "item_recipe_essence_distiller": {
+      "id": 1851,
+      "name": "Essence Distiller Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_essence_distiller.png"
+    },
+    "item_essence_distiller": {
+      "id": 1852,
+      "name": "Essence Distiller",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/essence_distiller.png"
+    },
+    "item_recipe_vanguard": {
+      "id": 124,
+      "name": "Recipe Vanguard",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_vanguard.png"
+    },
+    "item_vanguard": {
+      "id": 125,
+      "name": "Vanguard",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/vanguard.png"
+    },
+    "item_recipe_crimson_guard": {
+      "id": 243,
+      "name": "Crimson Guard Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_crimson_guard.png"
+    },
+    "item_crimson_guard": {
+      "id": 242,
+      "name": "Crimson Guard",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/crimson_guard.png"
+    },
+    "item_recipe_blade_mail": {
+      "id": 126,
+      "name": "Blade Mail Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_blade_mail.png"
+    },
+    "item_blade_mail": {
+      "id": 127,
+      "name": "Blade Mail",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blade_mail.png"
+    },
+    "item_recipe_soul_booster": {
+      "id": 128,
+      "name": "Recipe Soul Booster",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_soul_booster.png"
+    },
+    "item_soul_booster": {
+      "id": 129,
+      "name": "Soul Booster",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/soul_booster.png"
+    },
+    "item_recipe_hood_of_defiance": {
+      "id": 130,
+      "name": "Recipe Hood Of Defiance",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_hood_of_defiance.png"
+    },
+    "item_hood_of_defiance": {
+      "id": 131,
+      "name": "Hood of Defiance",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/hood_of_defiance.png"
+    },
+    "item_recipe_eternal_shroud": {
+      "id": 691,
+      "name": "Eternal Shroud Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_eternal_shroud.png"
+    },
+    "item_eternal_shroud": {
+      "id": 692,
+      "name": "Eternal Shroud",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/eternal_shroud.png"
+    },
+    "item_recipe_consecrated_wraps": {
+      "id": 1853,
+      "name": "Consecrated Wraps Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_consecrated_wraps.png"
+    },
+    "item_consecrated_wraps": {
+      "id": 1854,
+      "name": "Consecrated Wraps",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/consecrated_wraps.png"
+    },
+    "item_recipe_crellas_crozier": {
+      "id": 1855,
+      "name": "Crella's Crozier Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_crellas_crozier.png"
+    },
+    "item_crellas_crozier": {
+      "id": 1856,
+      "name": "Crella's Crozier",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/crellas_crozier.png"
+    },
+    "item_recipe_rapier": {
+      "id": 132,
+      "name": "Divine Rapier Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_rapier.png"
+    },
+    "item_rapier": {
+      "id": 133,
+      "name": "Divine Rapier",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/rapier.png"
+    },
+    "item_recipe_monkey_king_bar": {
+      "id": 134,
+      "name": "Monkey King Bar Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_monkey_king_bar.png"
+    },
+    "item_monkey_king_bar": {
+      "id": 135,
+      "name": "Monkey King Bar",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/monkey_king_bar.png"
+    },
+    "item_recipe_radiance": {
+      "id": 136,
+      "name": "Radiance Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_radiance.png"
+    },
+    "item_radiance": {
+      "id": 137,
+      "name": "Radiance",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/radiance.png"
+    },
+    "item_recipe_butterfly": {
+      "id": 138,
+      "name": "Recipe Butterfly",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_butterfly.png"
+    },
+    "item_butterfly": {
+      "id": 139,
+      "name": "Butterfly",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/butterfly.png"
+    },
+    "item_recipe_greater_crit": {
+      "id": 140,
+      "name": "Daedalus Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_greater_crit.png"
+    },
+    "item_greater_crit": {
+      "id": 141,
+      "name": "Daedalus",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/greater_crit.png"
+    },
+    "item_recipe_basher": {
+      "id": 142,
+      "name": "Skull Basher Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_basher.png"
+    },
+    "item_basher": {
+      "id": 143,
+      "name": "Skull Basher",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/basher.png"
+    },
+    "item_recipe_bfury": {
+      "id": 144,
+      "name": "Battle Fury Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_bfury.png"
+    },
+    "item_bfury": {
+      "id": 145,
+      "name": "Battle Fury",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/bfury.png"
+    },
+    "item_recipe_manta": {
+      "id": 146,
+      "name": "Manta Style Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_manta.png"
+    },
+    "item_manta": {
+      "id": 147,
+      "name": "Manta Style",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/manta.png"
+    },
+    "item_recipe_lesser_crit": {
+      "id": 148,
+      "name": "Crystalys Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_lesser_crit.png"
+    },
+    "item_lesser_crit": {
+      "id": 149,
+      "name": "Crystalys",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/lesser_crit.png"
+    },
+    "item_recipe_dragon_lance": {
+      "id": 234,
+      "name": "Dragon Lance Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_dragon_lance.png"
+    },
+    "item_dragon_lance": {
+      "id": 236,
+      "name": "Dragon Lance",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dragon_lance.png"
+    },
+    "item_recipe_armlet": {
+      "id": 150,
+      "name": "Armlet of Mordiggian Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_armlet.png"
+    },
+    "item_armlet": {
+      "id": 151,
+      "name": "Armlet of Mordiggian",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/armlet.png"
+    },
+    "item_recipe_invis_sword": {
+      "id": 183,
+      "name": "Recipe Invis Sword",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_invis_sword.png"
+    },
+    "item_invis_sword": {
+      "id": 152,
+      "name": "Shadow Blade",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/invis_sword.png"
+    },
+    "item_recipe_silver_edge": {
+      "id": 248,
+      "name": "Silver Edge Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_silver_edge.png"
+    },
+    "item_silver_edge": {
+      "id": 249,
+      "name": "Silver Edge",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/silver_edge.png"
+    },
+    "item_recipe_sange_and_yasha": {
+      "id": 153,
+      "name": "Recipe Sange And Yasha",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_sange_and_yasha.png"
+    },
+    "item_sange_and_yasha": {
+      "id": 154,
+      "name": "Sange and Yasha",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sange_and_yasha.png"
+    },
+    "item_recipe_kaya_and_sange": {
+      "id": 272,
+      "name": "Kaya and Sange Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_kaya_and_sange.png"
+    },
+    "item_kaya_and_sange": {
+      "id": 273,
+      "name": "Kaya and Sange",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/kaya_and_sange.png"
+    },
+    "item_recipe_yasha_and_kaya": {
+      "id": 274,
+      "name": "Yasha and Kaya Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_yasha_and_kaya.png"
+    },
+    "item_yasha_and_kaya": {
+      "id": 277,
+      "name": "Yasha and Kaya",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/yasha_and_kaya.png"
+    },
+    "item_recipe_satanic": {
+      "id": 155,
+      "name": "Satanic Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_satanic.png"
+    },
+    "item_satanic": {
+      "id": 156,
+      "name": "Satanic",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/satanic.png"
+    },
+    "item_recipe_mjollnir": {
+      "id": 157,
+      "name": "Mjollnir Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_mjollnir.png"
+    },
+    "item_mjollnir": {
+      "id": 158,
+      "name": "Mjollnir",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mjollnir.png"
+    },
+    "item_recipe_skadi": {
+      "id": 159,
+      "name": "Eye of Skadi Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_skadi.png"
+    },
+    "item_skadi": {
+      "id": 160,
+      "name": "Eye of Skadi",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/skadi.png"
+    },
+    "item_recipe_sange": {
+      "id": 161,
+      "name": "Sange Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_sange.png"
+    },
+    "item_sange": {
+      "id": 162,
+      "name": "Sange",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sange.png"
+    },
+    "item_recipe_helm_of_the_dominator": {
+      "id": 163,
+      "name": "Helm of the Dominator Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_helm_of_the_dominator.png"
+    },
+    "item_helm_of_the_dominator": {
+      "id": 164,
+      "name": "Helm of the Dominator",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/helm_of_the_dominator.png"
+    },
+    "item_recipe_helm_of_the_overlord": {
+      "id": 633,
+      "name": "Helm of the Overlord Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_helm_of_the_overlord.png"
+    },
+    "item_helm_of_the_overlord": {
+      "id": 635,
+      "name": "Helm of the Overlord",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/helm_of_the_overlord.png"
+    },
+    "item_recipe_maelstrom": {
+      "id": 165,
+      "name": "Maelstrom Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_maelstrom.png"
+    },
+    "item_maelstrom": {
+      "id": 166,
+      "name": "Maelstrom",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/maelstrom.png"
+    },
+    "item_recipe_gungir": {
+      "id": 1565,
+      "name": "Gleipnir Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_gungir.png"
+    },
+    "item_gungir": {
+      "id": 1466,
+      "name": "Gleipnir",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/gungir.png"
+    },
+    "item_recipe_desolator": {
+      "id": 167,
+      "name": "Recipe Desolator",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_desolator.png"
+    },
+    "item_desolator": {
+      "id": 168,
+      "name": "Desolator",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/desolator.png"
+    },
+    "item_recipe_yasha": {
+      "id": 169,
+      "name": "Yasha Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_yasha.png"
+    },
+    "item_yasha": {
+      "id": 170,
+      "name": "Yasha",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/yasha.png"
+    },
+    "item_recipe_mask_of_madness": {
+      "id": 171,
+      "name": "Mask of Madness Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_mask_of_madness.png"
+    },
+    "item_mask_of_madness": {
+      "id": 172,
+      "name": "Mask of Madness",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mask_of_madness.png"
+    },
+    "item_recipe_diffusal_blade": {
+      "id": 173,
+      "name": "Diffusal Blade Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_diffusal_blade.png"
+    },
+    "item_diffusal_blade": {
+      "id": 174,
+      "name": "Diffusal Blade",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/diffusal_blade.png"
+    },
+    "item_recipe_disperser": {
+      "id": 1096,
+      "name": "Disperser Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_disperser.png"
+    },
+    "item_disperser": {
+      "id": 1097,
+      "name": "Disperser",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/disperser.png"
+    },
+    "item_recipe_ethereal_blade": {
+      "id": 175,
+      "name": "Ethereal Blade Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_ethereal_blade.png"
+    },
+    "item_ethereal_blade": {
+      "id": 176,
+      "name": "Ethereal Blade",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ethereal_blade.png"
+    },
+    "item_recipe_soul_ring": {
+      "id": 177,
+      "name": "Soul Ring Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_soul_ring.png"
+    },
+    "item_soul_ring": {
+      "id": 178,
+      "name": "Soul Ring",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/soul_ring.png"
+    },
+    "item_recipe_arcane_boots": {
+      "id": 179,
+      "name": "Arcane Boots Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_arcane_boots.png"
+    },
+    "item_arcane_boots": {
+      "id": 180,
+      "name": "Arcane Boots",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/arcane_boots.png"
+    },
+    "item_recipe_octarine_core": {
+      "id": 228,
+      "name": "Octarine Core Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_octarine_core.png"
+    },
+    "item_octarine_core": {
+      "id": 235,
+      "name": "Octarine Core",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/octarine_core.png"
+    },
+    "item_orb_of_venom": {
+      "id": 181,
+      "name": "Orb of Venom",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/orb_of_venom.png"
+    },
+    "item_blight_stone": {
+      "id": 240,
+      "name": "Orb of Blight",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blight_stone.png"
+    },
+    "item_recipe_orb_of_corrosion": {
+      "id": 640,
+      "name": "Orb of Corrosion Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_orb_of_corrosion.png"
+    },
+    "item_orb_of_corrosion": {
+      "id": 569,
+      "name": "Orb of Corrosion",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/orb_of_corrosion.png"
+    },
+    "item_orb_of_frost": {
+      "id": 1575,
+      "name": "Orb of Frost",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/orb_of_frost.png"
+    },
+    "item_recipe_falcon_blade": {
+      "id": 599,
+      "name": "Falcon Blade Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_falcon_blade.png"
+    },
+    "item_falcon_blade": {
+      "id": 596,
+      "name": "Falcon Blade",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/falcon_blade.png"
+    },
+    "item_recipe_mage_slayer": {
+      "id": 597,
+      "name": "Mage Slayer Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_mage_slayer.png"
+    },
+    "item_mage_slayer": {
+      "id": 598,
+      "name": "Mage Slayer",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mage_slayer.png"
+    },
+    "item_recipe_ancient_janggo": {
+      "id": 184,
+      "name": "Drum of Endurance Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_ancient_janggo.png"
+    },
+    "item_ancient_janggo": {
+      "id": 185,
+      "name": "Drum of Endurance",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ancient_janggo.png"
+    },
+    "item_recipe_boots_of_bearing": {
+      "id": 930,
+      "name": "Boots of Bearing Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_boots_of_bearing.png"
+    },
+    "item_boots_of_bearing": {
+      "id": 931,
+      "name": "Boots of Bearing",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/boots_of_bearing.png"
+    },
+    "item_recipe_medallion_of_courage": {
+      "id": 186,
+      "name": "Recipe Medallion Of Courage",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_medallion_of_courage.png"
+    },
+    "item_medallion_of_courage": {
+      "id": 187,
+      "name": "Medallion of Courage",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/medallion_of_courage.png"
+    },
+    "item_recipe_solar_crest": {
+      "id": 227,
+      "name": "Solar Crest Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_solar_crest.png"
+    },
+    "item_solar_crest": {
+      "id": 229,
+      "name": "Solar Crest",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/solar_crest.png"
+    },
+    "item_recipe_pavise": {
+      "id": 1127,
+      "name": "Pavise Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_pavise.png"
+    },
+    "item_pavise": {
+      "id": 1128,
+      "name": "Pavise",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/pavise.png"
+    },
+    "item_smoke_of_deceit": {
+      "id": 188,
+      "name": "Smoke of Deceit",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/smoke_of_deceit.png"
+    },
+    "item_tome_of_knowledge": {
+      "id": 257,
+      "name": "Tome of Knowledge",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/tome_of_knowledge.png"
+    },
+    "item_recipe_veil_of_discord": {
+      "id": 189,
+      "name": "Veil of Discord Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_veil_of_discord.png"
+    },
+    "item_veil_of_discord": {
+      "id": 190,
+      "name": "Veil of Discord",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/veil_of_discord.png"
+    },
+    "item_recipe_revenants_brooch": {
+      "id": 910,
+      "name": "Revenant's Brooch Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_revenants_brooch.png"
+    },
+    "item_revenants_brooch": {
+      "id": 911,
+      "name": "Revenant's Brooch",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/revenants_brooch.png"
+    },
+    "item_recipe_devastator": {
+      "id": 1805,
+      "name": "Parasma Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_devastator.png"
+    },
+    "item_devastator": {
+      "id": 1806,
+      "name": "Parasma",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/devastator.png"
+    },
+    "item_recipe_guardian_greaves": {
+      "id": 230,
+      "name": "Guardian Greaves Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_guardian_greaves.png"
+    },
+    "item_guardian_greaves": {
+      "id": 231,
+      "name": "Guardian Greaves",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/guardian_greaves.png"
+    },
+    "item_recipe_rod_of_atos": {
+      "id": 205,
+      "name": "Rod of Atos Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_rod_of_atos.png"
+    },
+    "item_rod_of_atos": {
+      "id": 206,
+      "name": "Rod of Atos",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/rod_of_atos.png"
+    },
+    "item_recipe_iron_talon": {
+      "id": 238,
+      "name": "Iron Talon Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_iron_talon.png"
+    },
+    "item_iron_talon": {
+      "id": 239,
+      "name": "Iron Talon",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/iron_talon.png"
+    },
+    "item_recipe_abyssal_blade": {
+      "id": 207,
+      "name": "Abyssal Blade Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_abyssal_blade.png"
+    },
+    "item_abyssal_blade": {
+      "id": 208,
+      "name": "Abyssal Blade",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/abyssal_blade.png"
+    },
+    "item_recipe_heavens_halberd": {
+      "id": 209,
+      "name": "Heaven's Halberd Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_heavens_halberd.png"
+    },
+    "item_heavens_halberd": {
+      "id": 210,
+      "name": "Heaven's Halberd",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/heavens_halberd.png"
+    },
+    "item_recipe_ring_of_aquila": {
+      "id": 211,
+      "name": "Recipe Ring Of Aquila",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_ring_of_aquila.png"
+    },
+    "item_ring_of_aquila": {
+      "id": 212,
+      "name": "Ring of Aquila",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ring_of_aquila.png"
+    },
+    "item_recipe_tranquil_boots": {
+      "id": 213,
+      "name": "Tranquil Boots Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_tranquil_boots.png"
+    },
+    "item_tranquil_boots": {
+      "id": 214,
+      "name": "Tranquil Boots",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/tranquil_boots.png"
+    },
+    "item_shadow_amulet": {
+      "id": 215,
+      "name": "Shadow Amulet",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/shadow_amulet.png"
+    },
+    "item_recipe_glimmer_cape": {
+      "id": 253,
+      "name": "Glimmer Cape Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_glimmer_cape.png"
+    },
+    "item_glimmer_cape": {
+      "id": 254,
+      "name": "Glimmer Cape",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/glimmer_cape.png"
+    },
+    "item_river_painter": {
+      "id": 1021,
+      "name": "River Vial: Chrome",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/river_painter.png"
+    },
+    "item_river_painter2": {
+      "id": 1022,
+      "name": "River Vial: Dry",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/river_painter2.png"
+    },
+    "item_river_painter3": {
+      "id": 1023,
+      "name": "River Vial: Slime",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/river_painter3.png"
+    },
+    "item_river_painter4": {
+      "id": 1024,
+      "name": "River Vial: Oil",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/river_painter4.png"
+    },
+    "item_river_painter5": {
+      "id": 1025,
+      "name": "River Vial: Electrified",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/river_painter5.png"
+    },
+    "item_river_painter6": {
+      "id": 1026,
+      "name": "River Vial: Potion",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/river_painter6.png"
+    },
+    "item_river_painter7": {
+      "id": 1027,
+      "name": "River Vial: Blood",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/river_painter7.png"
+    },
+    "item_mutation_tombstone": {
+      "id": 1028,
+      "name": "Tombstone",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mutation_tombstone.png"
+    },
+    "item_super_blink": {
+      "id": 1029,
+      "name": "Super Blink",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/super_blink.png"
+    },
+    "item_pocket_tower": {
+      "id": 1030,
+      "name": "Pocket Tower",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/pocket_tower.png"
+    },
+    "item_pocket_roshan": {
+      "id": 1032,
+      "name": "Pocket Roshan",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/pocket_roshan.png"
+    },
+    "item_keen_optic": {
+      "id": 287,
+      "name": "Keen Optic",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/keen_optic.png"
+    },
+    "item_grove_bow": {
+      "id": 288,
+      "name": "Grove Bow",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/grove_bow.png"
+    },
+    "item_quickening_charm": {
+      "id": 289,
+      "name": "Quickening Charm",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/quickening_charm.png"
+    },
+    "item_philosophers_stone": {
+      "id": 290,
+      "name": "Philosopher's Stone",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/philosophers_stone.png"
+    },
+    "item_force_boots": {
+      "id": 291,
+      "name": "Force Boots",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_boots.png"
+    },
+    "item_desolator_2": {
+      "id": 292,
+      "name": "Stygian Desolator",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/desolator_2.png"
+    },
+    "item_phoenix_ash": {
+      "id": 293,
+      "name": "Phoenix Ash",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/phoenix_ash.png"
+    },
+    "item_seer_stone": {
+      "id": 294,
+      "name": "Seer Stone",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/seer_stone.png"
+    },
+    "item_greater_mango": {
+      "id": 295,
+      "name": "Greater Mango",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/greater_mango.png"
+    },
+    "item_elixer": {
+      "id": 302,
+      "name": "Elixir",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/elixer.png"
+    },
+    "item_vampire_fangs": {
+      "id": 297,
+      "name": "Vampire Fangs",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/vampire_fangs.png"
+    },
+    "item_force_field": {
+      "id": 829,
+      "name": "Arcanist's Armor",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_field.png"
+    },
+    "item_black_powder_bag": {
+      "id": 834,
+      "name": "Blast Rig",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_powder_bag.png"
+    },
+    "item_mechanical_arm": {
+      "id": 849,
+      "name": "Mechanical Arm",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mechanical_arm.png"
+    },
+    "item_craggy_coat": {
+      "id": 298,
+      "name": "Craggy Coat",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/craggy_coat.png"
+    },
+    "item_greater_faerie_fire": {
+      "id": 299,
+      "name": "Greater Faerie Fire",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/greater_faerie_fire.png"
+    },
+    "item_timeless_relic": {
+      "id": 300,
+      "name": "Timeless Relic",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/timeless_relic.png"
+    },
+    "item_mirror_shield": {
+      "id": 301,
+      "name": "Mirror Shield",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mirror_shield.png"
+    },
+    "item_ironwood_tree": {
+      "id": 304,
+      "name": "Ironwood Tree",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ironwood_tree.png"
+    },
+    "item_mango_tree": {
+      "id": 328,
+      "name": "Mango Tree",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mango_tree.png"
+    },
+    "item_royal_jelly": {
+      "id": 305,
+      "name": "Royal Jelly",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/royal_jelly.png"
+    },
+    "item_pupils_gift": {
+      "id": 306,
+      "name": "Pupil's Gift",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/pupils_gift.png"
+    },
+    "item_tome_of_aghanim": {
+      "id": 307,
+      "name": "Tome of Aghanim",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/tome_of_aghanim.png"
+    },
+    "item_repair_kit": {
+      "id": 308,
+      "name": "Repair Kit",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/repair_kit.png"
+    },
+    "item_mind_breaker": {
+      "id": 309,
+      "name": "Mind Breaker",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mind_breaker.png"
+    },
+    "item_third_eye": {
+      "id": 310,
+      "name": "Third Eye",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/third_eye.png"
+    },
+    "item_spell_prism": {
+      "id": 311,
+      "name": "Spell Prism",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/spell_prism.png"
+    },
+    "item_princes_knife": {
+      "id": 325,
+      "name": "Prince's Knife",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/princes_knife.png"
+    },
+    "item_witless_shako": {
+      "id": 330,
+      "name": "Witless Shako",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/witless_shako.png"
+    },
+    "item_imp_claw": {
+      "id": 334,
+      "name": "Imp Claw",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/imp_claw.png"
+    },
+    "item_flicker": {
+      "id": 335,
+      "name": "Flicker",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/flicker.png"
+    },
+    "item_spy_gadget": {
+      "id": 336,
+      "name": "Telescope",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/spy_gadget.png"
+    },
+    "item_spider_legs": {
+      "id": 326,
+      "name": "Spider Legs",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/spider_legs.png"
+    },
+    "item_helm_of_the_undying": {
+      "id": 327,
+      "name": "Helm of the Undying",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/helm_of_the_undying.png"
+    },
+    "item_vambrace": {
+      "id": 331,
+      "name": "Vambrace",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/vambrace.png"
+    },
+    "item_horizon": {
+      "id": 312,
+      "name": "Horizon",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/horizon.png"
+    },
+    "item_fusion_rune": {
+      "id": 313,
+      "name": "Fusion Rune",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/fusion_rune.png"
+    },
+    "item_ocean_heart": {
+      "id": 354,
+      "name": "Ocean Heart",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ocean_heart.png"
+    },
+    "item_spark_of_courage": {
+      "id": 1124,
+      "name": "Spark of Courage",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/spark_of_courage.png"
+    },
+    "item_broom_handle": {
+      "id": 355,
+      "name": "Broom Handle",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/broom_handle.png"
+    },
+    "item_trusty_shovel": {
+      "id": 356,
+      "name": "Trusty Shovel",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/trusty_shovel.png"
+    },
+    "item_nether_shawl": {
+      "id": 357,
+      "name": "Nether Shawl",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/nether_shawl.png"
+    },
+    "item_dragon_scale": {
+      "id": 358,
+      "name": "Dragon Scale",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dragon_scale.png"
+    },
+    "item_essence_ring": {
+      "id": 359,
+      "name": "Essence Ring",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/essence_ring.png"
+    },
+    "item_clumsy_net": {
+      "id": 360,
+      "name": "Clumsy Net",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/clumsy_net.png"
+    },
+    "item_enchanted_quiver": {
+      "id": 361,
+      "name": "Enchanted Quiver",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enchanted_quiver.png"
+    },
+    "item_ninja_gear": {
+      "id": 362,
+      "name": "Ninja Gear",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ninja_gear.png"
+    },
+    "item_illusionsts_cape": {
+      "id": 363,
+      "name": "Illusionist's Cape",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/illusionsts_cape.png"
+    },
+    "item_havoc_hammer": {
+      "id": 364,
+      "name": "Havoc Hammer",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/havoc_hammer.png"
+    },
+    "item_panic_button": {
+      "id": 365,
+      "name": "Magic Lamp",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/panic_button.png"
+    },
+    "item_apex": {
+      "id": 366,
+      "name": "Apex",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/apex.png"
+    },
+    "item_ballista": {
+      "id": 367,
+      "name": "Ballista",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ballista.png"
+    },
+    "item_woodland_striders": {
+      "id": 368,
+      "name": "Woodland Striders",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/woodland_striders.png"
+    },
+    "item_recipe_trident": {
+      "id": 275,
+      "name": "Trident Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_trident.png"
+    },
+    "item_demonicon": {
+      "id": 370,
+      "name": "Book of the Dead",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/demonicon.png"
+    },
+    "item_recipe_fallen_sky": {
+      "id": 317,
+      "name": "Recipe: Fallen Sky",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_fallen_sky.png"
+    },
+    "item_fallen_sky": {
+      "id": 371,
+      "name": "Fallen Sky",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/fallen_sky.png"
+    },
+    "item_pirate_hat": {
+      "id": 372,
+      "name": "Pirate Hat",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/pirate_hat.png"
+    },
+    "item_ex_machina": {
+      "id": 374,
+      "name": "Ex Machina",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ex_machina.png"
+    },
+    "item_faded_broach": {
+      "id": 375,
+      "name": "Faded Broach",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/faded_broach.png"
+    },
+    "item_paladin_sword": {
+      "id": 376,
+      "name": "Paladin Sword",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/paladin_sword.png"
+    },
+    "item_minotaur_horn": {
+      "id": 377,
+      "name": "Minotaur Horn",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/minotaur_horn.png"
+    },
+    "item_orb_of_destruction": {
+      "id": 378,
+      "name": "Orb of Destruction",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/orb_of_destruction.png"
+    },
+    "item_the_leveller": {
+      "id": 379,
+      "name": "The Leveller",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/the_leveller.png"
+    },
+    "item_arcane_ring": {
+      "id": 349,
+      "name": "Arcane Ring",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/arcane_ring.png"
+    },
+    "item_titan_sliver": {
+      "id": 381,
+      "name": "Titan Sliver",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/titan_sliver.png"
+    },
+    "item_chipped_vest": {
+      "id": 565,
+      "name": "Chipped Vest",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/chipped_vest.png"
+    },
+    "item_elven_tunic": {
+      "id": 573,
+      "name": "Elven Tunic",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/elven_tunic.png"
+    },
+    "item_cloak_of_flames": {
+      "id": 574,
+      "name": "Cloak of Flames",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/cloak_of_flames.png"
+    },
+    "item_trickster_cloak": {
+      "id": 571,
+      "name": "Trickster Cloak",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/trickster_cloak.png"
+    },
+    "item_possessed_mask": {
+      "id": 577,
+      "name": "Possessed Mask",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/possessed_mask.png"
+    },
+    "item_penta_edged_sword": {
+      "id": 638,
+      "name": "Penta-Edged Sword",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/penta_edged_sword.png"
+    },
+    "item_bullwhip": {
+      "id": 680,
+      "name": "Bullwhip",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/bullwhip.png"
+    },
+    "item_psychic_headband": {
+      "id": 675,
+      "name": "Psychic Headband",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/psychic_headband.png"
+    },
+    "item_ceremonial_robe": {
+      "id": 676,
+      "name": "Ceremonial Robe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ceremonial_robe.png"
+    },
+    "item_quicksilver_amulet": {
+      "id": 686,
+      "name": "Quicksilver Amulet",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/quicksilver_amulet.png"
+    },
+    "item_book_of_shadows": {
+      "id": 677,
+      "name": "Book of Shadows",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/book_of_shadows.png"
+    },
+    "item_giants_ring": {
+      "id": 678,
+      "name": "Giant's Ring",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/giants_ring.png"
+    },
+    "item_stormcrafter": {
+      "id": 585,
+      "name": "Stormcrafter",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/stormcrafter.png"
+    },
+    "item_mysterious_hat": {
+      "id": 589,
+      "name": "Fairy's Trinket",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mysterious_hat.png"
+    },
+    "item_ascetic_cap": {
+      "id": 825,
+      "name": "Ascetic's Cap",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ascetic_cap.png"
+    },
+    "item_misericorde": {
+      "id": 828,
+      "name": "Brigand's Blade",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/misericorde.png"
+    },
+    "item_heavy_blade": {
+      "id": 837,
+      "name": "Witchbane",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/heavy_blade.png"
+    },
+    "item_unstable_wand": {
+      "id": 838,
+      "name": "Pig Pole",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/unstable_wand.png"
+    },
+    "item_pogo_stick": {
+      "id": 840,
+      "name": "Tumbler's Toy",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/pogo_stick.png"
+    },
+    "item_paintball": {
+      "id": 835,
+      "name": "Fae Grenade",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/paintball.png"
+    },
+    "item_seeds_of_serenity": {
+      "id": 945,
+      "name": "Seeds of Serenity",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/seeds_of_serenity.png"
+    },
+    "item_lance_of_pursuit": {
+      "id": 946,
+      "name": "Lance of Pursuit",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/lance_of_pursuit.png"
+    },
+    "item_occult_bracelet": {
+      "id": 947,
+      "name": "Occult Bracelet",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/occult_bracelet.png"
+    },
+    "item_ogre_seal_totem": {
+      "id": 949,
+      "name": "Ogre Seal Totem",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ogre_seal_totem.png"
+    },
+    "item_recipe_harpoon": {
+      "id": 1101,
+      "name": "Harpoon Recipe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_harpoon.png"
+    },
+    "item_harpoon": {
+      "id": 939,
+      "name": "Harpoon",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/harpoon.png"
+    },
+    "item_defiant_shell": {
+      "id": 950,
+      "name": "Defiant Shell",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/defiant_shell.png"
+    },
+    "item_eye_of_the_vizier": {
+      "id": 990,
+      "name": "Eye of the Vizier",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/eye_of_the_vizier.png"
+    },
+    "item_bottomless_chalice": {
+      "id": 1000,
+      "name": "Bottomless Chalice",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/bottomless_chalice.png"
+    },
+    "item_dagger_of_ristul": {
+      "id": 1077,
+      "name": "Dagger of Ristul",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagger_of_ristul.png"
+    },
+    "item_ofrenda": {
+      "id": 4300,
+      "name": "Beloved Memory",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ofrenda.png"
+    },
+    "item_ofrenda_shovel": {
+      "id": 4301,
+      "name": "Scrying Shovel",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ofrenda_shovel.png"
+    },
+    "item_ofrenda_pledge": {
+      "id": 4302,
+      "name": "Forebearer's Fortune",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ofrenda_pledge.png"
+    },
+    "item_muertas_gun": {
+      "id": 1090,
+      "name": "Mercy & Grace",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/muertas_gun.png"
+    },
+    "item_tier1_token": {
+      "id": 2091,
+      "name": "Tier 1 Token",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/tier1_token.png"
+    },
+    "item_tier2_token": {
+      "id": 2092,
+      "name": "Tier 2 Token",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/tier2_token.png"
+    },
+    "item_tier3_token": {
+      "id": 2093,
+      "name": "Tier 3 Token",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/tier3_token.png"
+    },
+    "item_tier4_token": {
+      "id": 2094,
+      "name": "Tier 4 Token",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/tier4_token.png"
+    },
+    "item_tier5_token": {
+      "id": 2095,
+      "name": "Tier 5 Token",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/tier5_token.png"
+    },
+    "item_vindicators_axe": {
+      "id": 2096,
+      "name": "Vindicator's Axe",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/vindicators_axe.png"
+    },
+    "item_duelist_gloves": {
+      "id": 2097,
+      "name": "Duelist Gloves",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/duelist_gloves.png"
+    },
+    "item_ancient_guardian": {
+      "id": 1156,
+      "name": "Ancient Guardian",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ancient_guardian.png"
+    },
+    "item_safety_bubble": {
+      "id": 1157,
+      "name": "Safety Bubble",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/safety_bubble.png"
+    },
+    "item_whisper_of_the_dread": {
+      "id": 1158,
+      "name": "Whisper of the Dread",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/whisper_of_the_dread.png"
+    },
+    "item_nemesis_curse": {
+      "id": 1159,
+      "name": "Nemesis Curse",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/nemesis_curse.png"
+    },
+    "item_avianas_feather": {
+      "id": 1160,
+      "name": "Aviana's Feather",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/avianas_feather.png"
+    },
+    "item_unwavering_condition": {
+      "id": 1161,
+      "name": "Unwavering Condition",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/unwavering_condition.png"
+    },
+    "item_dandelion_amulet": {
+      "id": 2190,
+      "name": "Dandelion Amulet",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dandelion_amulet.png"
+    },
+    "item_martyrs_plate": {
+      "id": 2192,
+      "name": "Martyr's Plate",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/martyrs_plate.png"
+    },
+    "item_gossamer_cape": {
+      "id": 2193,
+      "name": "Gossamer Cape",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/gossamer_cape.png"
+    },
+    "item_light_collector": {
+      "id": 1167,
+      "name": "Light Collector",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/light_collector.png"
+    },
+    "item_rattlecage": {
+      "id": 1168,
+      "name": "Rattlecage",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/rattlecage.png"
+    },
+    "item_doubloon": {
+      "id": 1803,
+      "name": "Doubloon",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/doubloon.png"
+    },
+    "item_roshans_banner": {
+      "id": 1804,
+      "name": "Roshan's Banner",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/roshans_banner.png"
+    },
+    "item_black_grimoire": {
+      "id": 1440,
+      "name": "Black Grimoire\n(Warlock)",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_grimoire.png"
+    },
+    "item_grisgris": {
+      "id": 1441,
+      "name": "Gris-Gris",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/grisgris.png"
+    },
+    "item_enhancement_vast": {
+      "id": 1576,
+      "name": "Vast",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_vast.png"
+    },
+    "item_enhancement_quickened": {
+      "id": 1577,
+      "name": "Quickened",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_quickened.png"
+    },
+    "item_enhancement_audacious": {
+      "id": 1581,
+      "name": "Audacious",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_audacious.png"
+    },
+    "item_enhancement_mystical": {
+      "id": 1583,
+      "name": "Mystical",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_mystical.png"
+    },
+    "item_enhancement_alert": {
+      "id": 1584,
+      "name": "Alert",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_alert.png"
+    },
+    "item_enhancement_brawny": {
+      "id": 1585,
+      "name": "Brawny",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_brawny.png"
+    },
+    "item_enhancement_tough": {
+      "id": 1586,
+      "name": "Tough",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_tough.png"
+    },
+    "item_enhancement_feverish": {
+      "id": 1587,
+      "name": "Feverish",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_feverish.png"
+    },
+    "item_enhancement_fleetfooted": {
+      "id": 1588,
+      "name": "Fleetfooted",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_fleetfooted.png"
+    },
+    "item_enhancement_crude": {
+      "id": 1589,
+      "name": "Crude",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_crude.png"
+    },
+    "item_enhancement_boundless": {
+      "id": 1590,
+      "name": "Boundless",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_boundless.png"
+    },
+    "item_enhancement_wise": {
+      "id": 1591,
+      "name": "Wise",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_wise.png"
+    },
+    "item_enhancement_timeless": {
+      "id": 1592,
+      "name": "Timeless",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_timeless.png"
+    },
+    "item_enhancement_greedy": {
+      "id": 1593,
+      "name": "Greedy",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_greedy.png"
+    },
+    "item_enhancement_vampiric": {
+      "id": 1594,
+      "name": "Vampiric",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_vampiric.png"
+    },
+    "item_enhancement_keen_eyed": {
+      "id": 1595,
+      "name": "Keen-eyed",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_keen_eyed.png"
+    },
+    "item_enhancement_evolved": {
+      "id": 1596,
+      "name": "Evolved",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_evolved.png"
+    },
+    "item_enhancement_titanic": {
+      "id": 1597,
+      "name": "Titanic",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_titanic.png"
+    },
+    "item_unrelenting_eye": {
+      "id": 1598,
+      "name": "Unrelenting Eye",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/unrelenting_eye.png"
+    },
+    "item_mana_draught": {
+      "id": 1599,
+      "name": "Mana Draught",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mana_draught.png"
+    },
+    "item_rippers_lash": {
+      "id": 1600,
+      "name": "Ripper's Lash",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/rippers_lash.png"
+    },
+    "item_crippling_crossbow": {
+      "id": 1601,
+      "name": "Crippling Crossbow",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/crippling_crossbow.png"
+    },
+    "item_gale_guard": {
+      "id": 1602,
+      "name": "Gale Guard",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/gale_guard.png"
+    },
+    "item_gunpowder_gauntlets": {
+      "id": 1603,
+      "name": "Gunpowder Gauntlet",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/gunpowder_gauntlets.png"
+    },
+    "item_searing_signet": {
+      "id": 1604,
+      "name": "Searing Signet",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/searing_signet.png"
+    },
+    "item_serrated_shiv": {
+      "id": 1605,
+      "name": "Serrated Shiv",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/serrated_shiv.png"
+    },
+    "item_polliwog_charm": {
+      "id": 1606,
+      "name": "Pollywog Charm",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/polliwog_charm.png"
+    },
+    "item_magnifying_monocle": {
+      "id": 1607,
+      "name": "Magnifying Monocle",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/magnifying_monocle.png"
+    },
+    "item_pyrrhic_cloak": {
+      "id": 1608,
+      "name": "Pyrrhic Cloak",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/pyrrhic_cloak.png"
+    },
+    "item_madstone_bundle": {
+      "id": 1609,
+      "name": "Madstone Bundle",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/madstone_bundle.png"
+    },
+    "item_miniboss_minion_summoner": {
+      "id": 1610,
+      "name": "Miniboss Minion Summoner",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/miniboss_minion_summoner.png"
+    },
+    "item_kobold_cup": {
+      "id": 1637,
+      "name": "Kobold Cup",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/kobold_cup.png"
+    },
+    "item_dormant_curio": {
+      "id": 1638,
+      "name": "Dormant Curio",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dormant_curio.png"
+    },
+    "item_sisters_shroud": {
+      "id": 1639,
+      "name": "Sister's Shroud",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sisters_shroud.png"
+    },
+    "item_jidi_pollen_bag": {
+      "id": 1640,
+      "name": "Jidi Pollen Bag",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/jidi_pollen_bag.png"
+    },
+    "item_outworld_staff": {
+      "id": 1641,
+      "name": "Outworld Staff",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/outworld_staff.png"
+    },
+    "item_dezun_bloodrite": {
+      "id": 1642,
+      "name": "Dezun Bloodrite",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dezun_bloodrite.png"
+    },
+    "item_giant_maul": {
+      "id": 1643,
+      "name": "Giant's Maul",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/giant_maul.png"
+    },
+    "item_divine_regalia": {
+      "id": 1644,
+      "name": "Divine Regalia",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/divine_regalia.png"
+    },
+    "item_divine_regalia_broken": {
+      "id": 1645,
+      "name": "Disgraced Regalia",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/divine_regalia_broken.png"
+    },
+    "item_enhancement_fierce": {
+      "id": 1647,
+      "name": "Fierce",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_fierce.png"
+    },
+    "item_enhancement_dominant": {
+      "id": 1648,
+      "name": "Dominant",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_dominant.png"
+    },
+    "item_enhancement_restorative": {
+      "id": 1649,
+      "name": "Restorative",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_restorative.png"
+    },
+    "item_enhancement_thick": {
+      "id": 1650,
+      "name": "Thick",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_thick.png"
+    },
+    "item_enhancement_curious": {
+      "id": 1651,
+      "name": "Unleashed",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_curious.png"
+    },
+    "item_furion_gold_bag": {
+      "id": 1652,
+      "name": "Bag of Gold",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/furion_gold_bag.png"
+    },
+    "item_recipe_specialists_array": {
+      "id": 1715,
+      "name": "Recipe Specialists Array",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_specialists_array.png"
+    },
+    "item_specialists_array": {
+      "id": 1076,
+      "name": "Specialist's Array",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/specialists_array.png"
+    },
+    "item_recipe_hydras_breath": {
+      "id": 1857,
+      "name": "Recipe Hydras Breath",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/recipe_hydras_breath.png"
+    },
+    "item_hydras_breath": {
+      "id": 1858,
+      "name": "Hydra's Breath",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/hydras_breath.png"
+    },
+    "item_weighted_dice": {
+      "id": 1716,
+      "name": "Weighted Dice",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/weighted_dice.png"
+    },
+    "item_ash_legion_shield": {
+      "id": 1717,
+      "name": "Ash Legion Shield",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ash_legion_shield.png"
+    },
+    "item_riftshadow_prism": {
+      "id": 1718,
+      "name": "Riftshadow Prism",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/riftshadow_prism.png"
+    },
+    "item_metamorphic_mandible": {
+      "id": 1719,
+      "name": "Metamorphic Mandible",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/metamorphic_mandible.png"
+    },
+    "item_idol_of_screeauk": {
+      "id": 1720,
+      "name": "Idol of Scree'auk",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/idol_of_screeauk.png"
+    },
+    "item_flayers_bota": {
+      "id": 1721,
+      "name": "Flayer's Bota",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/flayers_bota.png"
+    },
+    "item_spellslinger": {
+      "id": 1859,
+      "name": "Spellslinger",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/spellslinger.png"
+    },
+    "item_prophets_pendulum": {
+      "id": 1860,
+      "name": "Prophet's Pendulum",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/prophets_pendulum.png"
+    },
+    "item_stonefeather_satchel": {
+      "id": 1861,
+      "name": "Stonefeather Satchel",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/stonefeather_satchel.png"
+    },
+    "item_enchanters_bauble": {
+      "id": 1862,
+      "name": "Enchanter's Bauble",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enchanters_bauble.png"
+    },
+    "item_harmonizer": {
+      "id": 1863,
+      "name": "Harmonizer",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/harmonizer.png"
+    },
+    "item_conjurers_catalyst": {
+      "id": 1864,
+      "name": "Conjurer's Catalyst",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/conjurers_catalyst.png"
+    },
+    "item_enhancement_vital": {
+      "id": 1865,
+      "name": "Vital",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_vital.png"
+    },
+    "item_enhancement_hulking": {
+      "id": 1866,
+      "name": "Hulking",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_hulking.png"
+    },
+    "item_enhancement_manic": {
+      "id": 1867,
+      "name": "Manic",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_manic.png"
+    },
+    "item_foragers_kit": {
+      "id": 1868,
+      "name": "Forager's Kit",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/foragers_kit.png"
+    },
+    "item_foragers_health": {
+      "id": 1869,
+      "name": "Vital Toadstool",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/foragers_health.png"
+    },
+    "item_foragers_stats": {
+      "id": 1870,
+      "name": "Ironwood Nut",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/foragers_stats.png"
+    },
+    "item_foragers_mana": {
+      "id": 1871,
+      "name": "Tomo'kan Ringcap",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/foragers_mana.png"
+    },
+    "item_chasm_stone": {
+      "id": 1872,
+      "name": "Chasm Stone",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/chasm_stone.png"
+    },
+    "item_partisans_brand": {
+      "id": 1873,
+      "name": "Partisan's Brand",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/partisans_brand.png"
+    },
+    "item_enhancement_nimble": {
+      "id": 1874,
+      "name": "Nimble",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/enhancement_nimble.png"
+    },
+    "item_tidehunter_fish": {
+      "id": 1875,
+      "name": "Leviathan's Fish",
+      "image": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/tidehunter_fish.png"
+    }
+  }
+}
