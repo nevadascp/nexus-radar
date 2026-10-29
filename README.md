@@ -34,7 +34,7 @@
 ## Локальная проверка
 
 ```sh
-node --test tests/*.test.mjs
+node --test model.test.mjs
 python -m http.server 8765 --bind 127.0.0.1
 ```
 
