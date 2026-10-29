@@ -1028,6 +1028,10 @@ stop = function()
     state.requestId = state.requestId + 1
     state.inflight, state.feedOwner = {}, nil
     if state.control then state.pendingStop = true; show("cr_st_stopping"); return end
+    if not state.session then
+        local persisted=savedGet("session")
+        if #persisted==32 and persisted:match("^[a-f0-9]+$") then state.session=persisted end
+    end
     if not state.session then show("cr_st_stopped"); return end
     state.control = true
     afterUpload(function()
